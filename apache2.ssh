@@ -5,3 +5,6 @@ sudo apt update
 sudo apt install apache2 -y
 sudo systemctl start apache2
 sudo systemctl status apache2
+
+
+echo "Hello Nischal Lama" > /var/html/index.html
