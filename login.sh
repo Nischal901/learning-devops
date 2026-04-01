@@ -2,4 +2,7 @@
 
 echo "some change in login"
 
-#addding new feature 
+#addding new feature
+
+date
+whoami
