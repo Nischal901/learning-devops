@@ -8,5 +8,6 @@
 echo "some change in login"
 
 df -h
-hostname
-date
+echo "login success" >> dashboard1.sh
+
+uptime
